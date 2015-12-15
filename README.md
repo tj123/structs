@@ -1,2 +1,2 @@
-# structs
-这只是一个测定github好不好耍的
+# struts2
+struts的名字都写错了，struts2学习项目更新走起！
